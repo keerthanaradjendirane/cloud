@@ -1,9 +1,8 @@
-langchain
-google-generativeai
 streamlit
-sckit-learn
-numpy
 pandas
+numpy
 matplotlib
 seaborn
-warnings
+scikit-learn
+google-generativeai
+langchain

@@ -6,3 +6,4 @@ seaborn
 scikit-learn
 google-generativeai
 langchain
+openpyxl
